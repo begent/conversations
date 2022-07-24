@@ -1,4 +1,5 @@
 <h1 align="center">Conversations</h1>
+<h1 align="center">"build-check" branch는 절대로 다른 브랜치에 merge 하지 말것!!!!</h1>
 
 <p align="center">Conversations: the very last word in instant messaging</p>
 
