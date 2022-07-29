@@ -31,19 +31,54 @@
 <resources>
     <string name="pref_about_message" translatable="false">
 		The most desirable share accommodation in Australia.
-		Discover your next shared accommodation with Otherhome.
-		OTHERHOME SHAREHOUSE!
-		We have numerous experiences dealing with flatmates, and we are fully aware of your needs and rights.
+		\n\nDiscover your next shared accommodation with Otherhome.
+		\n\nOTHERHOME!
+		\n\nWe have numerous experiences dealing with flatmates, and we are fully aware of your needs and rights.
 		we give you exclusive "HOME AWAY HOME” experience during your stay.
-		We aim to provide a service that will leave our tenant with the feeling of a comfortalble, warm, and welcomed stay in Australia.
-		In order to make this dream into a reality,we gradually increased our portfolio to encompass 42 share houses as of july 2022.
-		Although we may not be the best,we wish to provide a home-like experience and environment that will be just as comfortable as being at home.
-		Now, we have expanded our business: we are now doing removalist cleaning and property maintenance (all our team are licenced and qualified).
+		\n\nWe aim to provide a service that will leave our tenant with the feeling of a comfortalble, warm, and welcomed stay in Australia.
+		\n\nwe may not be the best,we wish to provide a home-like experience and environment that will be just as comfortable as being at home.
+		\n\nNow, we have expanded our business:
+		\n\nRemovalist
+		\n\nCleaning
+		\n\nProperty maintenance (all our team are licenced and qualified).
 
-		This software informs you that the code of the copyright holder below has been modified.
+		\n\nCopyright (c) 2022, otherhome.au All rights reserved.
+		\n\nhttps://github.com/cnkqavsj/conversations
+		\n\nThis software informs you that the code of the copyright holder below has been modified.
+		\n\nConversations • the very last word in instant messaging.
+		\n\nCopyright © 2014-2022 Daniel Gultsch
+		\n\notherhome.au also follow the policy below.
+		\n\nThis program is free software: you can redistribute it and/or modify
+			it under the terms of the GNU General Public License as published by
+			the Free Software Foundation, either version 3 of the License, or
+			(at your option) any later version.
+			\n\nThis program is distributed in the hope that it will be useful,
+			but WITHOUT ANY WARRANTY; without even the implied warranty of
+			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+			GNU General Public License for more details.
+			\n\nYou should have received a copy of the GNU General Public License
+			along with this program. If not, see https://www.gnu.org/licenses
+			\n\nDownload the full source code at https://github.com/iNPUTmice/Conversations
+			\n\n\nLibraries
+			\n\nhttps://webrtc.org\nCopyright (c) 2011, The WebRTC project authors. All rights reserved. (https://webrtc.org/support/license)
+			\n\nhttps://github.com/ypresto/android-transcoder\n(Apache License, Version 2.0)
+			\n\nhttps://www.bouncycastle.org\n(The MIT License (MIT))
+			\n\nhttps://www.gnu.org/software/libidn\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/ge0rg/MemorizingTrustManager\n(The MIT License (MIT))
+			\n\nhttps://github.com/rtreffer/minidns\n(WTFPL)
+			\n\nhttps://github.com/open-keychain/openkeychain-api-lib\n(Apache License, Version 2.0)
+			\n\nhttps://developer.android.com/tools/support-library\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/google/material-design-icons\n(CC BY 4.0)
+			\n\nhttps://github.com/leolin310148/ShortcutBadger\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/WhisperSystems/libaxolotl-java\n(GPLv3)
+			\n\nhttps://github.com/vinc3m1/RoundedImageView\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/jdamcd/android-crop\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/zxing/zxing\n(Apache License, Version 2.0)
+			\n\nhttps://github.com/osmdroid/osmdroid\n(Apache License, Version 2.0)
+			\n\n\nMaps
+			\n\nMaps by Open Street Map (https://www.openstreetmap.org). Copyright restrictions may apply.
 
-		Copyright (c) 2018, Daniel Gultsch All rights reserved.
-		Conversations • the very last word in instant messaging.
+			\n\nConversations • the very last word in instant messaging.
 			\n\nCopyright © 2014-2022 Daniel Gultsch
 			\n\nThis program is free software: you can redistribute it and/or modify
 			it under the terms of the GNU General Public License as published by
