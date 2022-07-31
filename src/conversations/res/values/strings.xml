@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pick_a_server">id@otherhome.au</string>
+    <string name="pick_a_server">username@otherhome.au</string>
     <string name="use_conversations.im">Use conversations.im</string>
     <string name="create_new_account">Create new account</string>
     <string name="do_you_have_an_account">Do you already have an account? Press Login below. If not you can create a new account with support@otherhome.com.au</string>
-    <string name="server_select_text">Enter all forms of "id@otherhom.au" created and provided by support@otherhome.com.au</string>
+    <string name="server_select_text">Enter all forms of "username@otherhom.au" created and provided by support@otherhome.com.au</string>
     <string name="magic_create_text_on_x">You have been invited to %1$s. We will guide you through the process of creating an account.\nWhen picking %1$s as a provider you will be able to communicate with users of other providers by giving them your full otherhome address.</string>
     <string name="magic_create_text_fixed">You have been invited to %1$s. A username has already been picked for you. We will guide you through the process of creating an account.\nYou will be able to communicate with users of other providers by giving them your full otherhome address.</string>
     <string name="your_server_invitation">Your server invitation</string>
