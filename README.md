@@ -412,6 +412,7 @@ unset _JAVA_OPTS
 It will take some time and build webrtc for all popular Android architectures.
 The result will be the file `./libwebrtc.aar`
 
+Alternatively, you can use the prebuilt AAR from the [Release](https://github.com/crow-misia/libwebrtc-bin/releases).
 
 ##### Building Conversations itself
 
